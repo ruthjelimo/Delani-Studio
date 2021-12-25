@@ -1,0 +1,242 @@
+.nav{
+    background-image: url("images/delanin.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.nav-bar{
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+    margin-left: 200px;
+
+    
+  
+}
+.nav-bar h1{
+    margin-top: -120px;
+    padding: 10px;
+}   
+.nav-bar h2{
+
+    padding: 10px;
+}
+.nav-bar h6{
+    
+    opacity: 0.6;   
+}
+#logo{
+    width: 50px;
+    height: 50px; 
+    margin-left: 240px;
+}
+#mouse{
+margin-top:610px ;
+position: relative;
+right: 700px;
+
+
+}
+.about {
+    text-align: center;
+    padding-top: 20px;
+    font-family: copse serif;
+    padding-bottom: 20px;
+}
+.about h1{
+    
+    padding-top: 20px;
+    text-align: center;
+
+}
+.services{
+    background-image: url("images/delanicomp.jpg");
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+    background-size: cover;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.services h3{
+    
+    padding-top: 100px;
+}
+.services p{
+    padding-top: 10px;
+    line-height: 5px;
+    opacity: 0.8;
+    font-family: copse serif;
+
+}
+.container h2{
+    align-items: center;
+    margin-left: 400px;
+    padding: 20px;
+}
+.container h3{
+    margin-left: 400px;
+    padding-top: 40px;
+}
+.col-3{
+    padding: 5px;
+
+}
+ #showing-product{
+    margin-left:600px;
+    margin-top: -120px;
+    
+}
+#showing-design{
+    margin-top: 100px;
+    
+}
+#showing-development{
+    margin-top:100px;
+} 
+#blank,#hidden1,#hidden2,#hidden3,#hidden4,#hidden5,#hidden6,#hidden7{
+    display: none;
+    text-align: center;
+    background-color: (250,245,245, 0.45);
+    font-weight: bold;
+    font-size: 24px;
+    position: relative;
+    bottom: 180;
+    opacity: 2.0;
+    color:springgreen;
+    margin-top: -40px;
+    box-shadow: 5px,5px,2px white;
+
+}
+
+.contact{
+    background-image: url("images/delani1.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    background-repeat: no-repeat;
+    width: 100;
+    
+}
+#Fname{
+    background-color: transparent;
+    color: white;
+    border: 1px solid rgb(243, 240, 240);
+
+}
+#email{
+    background-color: transparent;
+    color: white;
+    margin-bottom: 20px;
+    border: 1px solid rgb(243, 240, 240);  
+}
+#message{
+    background-color: transparent;
+    color: white;
+    margin-left: 400px;
+    border: 1px solid rgb(243, 240, 240);
+}
+.button{
+    width: 200px;
+    height: 50px;
+    margin-left: 600px;
+    margin-top: 20px;
+    color: blue;
+    font-size: 18px;
+}
+.footer{
+    text-align: center;
+    padding-top: 50px;
+    margin-top:-40px; 
+}
+.footer p{
+    margin-left: 80px;
+    line-height: 20px;
+    padding-top: 20px;
+    font-family: cursive;
+}
+#hidden-design{
+    display: none;
+    
+}
+#hidden-development{
+    display: none;
+}
+#hidden-product{
+    display: none;
+}
+#work4:hover{
+
+opacity: 0.5;
+}
+#work3:hover{
+    opacity: 0.5;
+}
+#work2:hover{
+    opacity: 0.5;
+}
+#delaniportfolio1:hover{
+    opacity: 0.5;
+}
+#delani5:hover{
+    opacity: 0.5;
+}
+#work6:hover{
+    opacity: 0.5;
+}
+#delani7:hover{
+    opacity: 0.5;
+}
+#work8:hover{
+    opacity: 0.5;
+}
+
+.images{
+    flex-direction: row;
+    justify-content: space-between;
+}
+.image{
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+}
+.port{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+ .image .images .port{
+    transition: 0.9s;
+}
+.project-one{
+    position: absolute;
+    opacity: 0.2;
+    top:40%;
+    left:40%;
+    transform: translate(-50%,-50%);
+    width: 70%;
+    height: 70%;
+    border: 1px solid var(white);
+    padding: 1.5rem;
+    font-size: 2px;
+    font-weight: 500;
+    text-align: left;
+}
+.dull{
+    filter: brightness(0.5);
+}
+.displayProject{
+    opacity: 1.3;
+} 
+

@@ -2,11 +2,12 @@
 By Ruth jelimo
 
 ## Descrption
-The website is all about  Delani Studio 
-
-
+The website is all about  Delani Studio .Its a site where by one can check out 
+the  projects that have been done and can reach out by sending a message to inquire
+or have their opinion
 
 ## Design
+
 
 ## Setup/Installation Requirements
 1.Install visual studio code

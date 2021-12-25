@@ -23,6 +23,8 @@ or have their opinion
 
 ## livelink
 To clone the project use the link below
+https://github.com/ruthjelimo/Delani-Studio.git
+
 
 
 To view the project here is my live link to the project

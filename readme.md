@@ -28,6 +28,8 @@ https://github.com/ruthjelimo/Delani-Studio.git
 
 
 To view the project here is my live link to the project
+https://ruthjelimo.github.io/Delani-Studio/
+
 
 ## License
 The project is under the license of MIT
